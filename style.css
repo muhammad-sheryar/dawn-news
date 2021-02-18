@@ -1,0 +1,55 @@
+.bara{
+    padding: 5px;
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+}
+.tab{
+    margin-left: auto;
+    margin-right: auto;  
+    
+}
+.a:hover{
+    background-color: gray;
+}
+.barb{
+    background-color: lightgray;
+    font-size: 12px;
+    padding: 5px;
+    border-style: lightgray;
+}
+.b:hover{
+    background-color: gray;
+}
+.fig{
+    text-align: center;
+}
+.info{
+    text-align: center;
+}
+.para{
+    text-align: justify;
+    font-size: larger;
+}
+div.form{
+    font:larger;
+    word-spacing: 100px;
+}
+.formb{
+    font:larger;
+    word-spacing: 100px;
+}
+.display{
+   display: inline-flex;
+   letter-spacing: 6px;
+font-size: small;
+}
+#button{
+background-color: gray;
+height: -4px;
+}
+
+
+
+
